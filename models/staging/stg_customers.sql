@@ -3,3 +3,4 @@ SELECT
     CUSTOMER_NAME,
     CITY
 FROM DBT_DEMO.RAW.CUSTOMERS
+-- test sync from VS Code
